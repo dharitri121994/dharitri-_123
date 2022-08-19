@@ -1,1 +1,2 @@
-I am a devops Engineer
+I am an Engineer
+Now I am learning Devops and Aws
