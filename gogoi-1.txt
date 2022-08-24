@@ -1,6 +1,0 @@
-This is my 1st github repository.
-Now I am able to add some contents from my local machine.
-
-
-
-Now I practice the git commands
