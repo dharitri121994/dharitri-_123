@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 
 <<<<<<< HEAD
+=======
+>>>>>>> 0f5588463e2ff75efee1d4a41422ad19a8c73173
 I am creating this file for merging concept
 =======
 This is my new file for merging br2 with br1
 >>>>>>> br1
+
+This is my new file for merging br2 with br1
 
 
